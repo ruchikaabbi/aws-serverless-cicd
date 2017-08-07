@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "*"
+        "OriginUrl": "http://mynewsamfarmstack-s3bucket-2xnqe0b4kxet.s3-website-us-west-2.amazonaws.com"
     }
 }
